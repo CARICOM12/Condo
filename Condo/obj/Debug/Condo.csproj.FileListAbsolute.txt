@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2015\Projects\Condo\Condo\bin\Debug\Condo.exe.config
+C:\Users\Alexander\documents\visual studio 2015\Projects\Condo\Condo\obj\Debug\Condo.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2015\Projects\Condo\Condo\bin\Debug\Condo.exe
+C:\Users\Alexander\documents\visual studio 2015\Projects\Condo\Condo\bin\Debug\Condo.pdb
+C:\Users\Alexander\documents\visual studio 2015\Projects\Condo\Condo\obj\Debug\Condo.exe
+C:\Users\Alexander\documents\visual studio 2015\Projects\Condo\Condo\obj\Debug\Condo.pdb
